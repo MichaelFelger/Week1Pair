@@ -12,6 +12,15 @@ package com.techelevator;
 public class MakeChange {
 
 	public static void main(String[] args) {
+	/*
+	What's the bill?
+	How much was tendered?
+
+
+	Subtract bill from tendered
+	Print change to be given with 2 decimal places
+	 */
+
 
 	}
 
